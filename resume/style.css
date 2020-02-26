@@ -7,10 +7,15 @@ BODY {
 }
 
 /* name */
-H1 {
+#name {
   font-size: 3em;
   color: #33485e;
   text-transform: uppercase;
+  border-bottom: 1px solid #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  text-align:center;
 }
 
 /* title */
@@ -21,30 +26,38 @@ color: #33485e;
 }
 
 /* section titles */
-H2 {
+.sectionheader {
   font-size: 1.5em;
   text-transform: uppercase;
   background-color: #33485e;
   color: #ffffff;
   font-weight: 400;
+  margin: 20px 0px 10px;
+  width: 70%;
+  min-width: 300px;
 }
 
 /* job titles */
-H3 {
+.jobtitles {
   font-weight: 600;
   font-size: 1.5em;
 }
 
 /* job organizations */
-H4{
+.organization {
   font-weight: 400;
-  font-size: 1.5em;
+  font-size: 1.25em;
 }
 
 /* job dates */
-H5{
+.date {
   font-weight: 400;
   font-size: 1em;
+  margin: 2px 0px 0px 0px;
+}
+
+.description {
+  margin: 10px 0px; 
 }
 
 /* literally any other small text */
