@@ -6,6 +6,13 @@ BODY {
   color: #444;
 }
 
+/* whole document*/
+#container {
+  width: 100%
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 /* name */
 #name {
   font-size: 3em;
@@ -15,7 +22,7 @@ BODY {
   width: 60%;
   min-width: 300px;
   margin: 0 auto;
-  text-align:center;
+  text-align: center;
 }
 
 /* title */
@@ -24,7 +31,9 @@ font-size= 1.5em;
 text-transform: uppercase;
 color: #33485e;
 font-weight: 600;
-text-align: center; 
+text-align: center;
+margin-top: 20px;
+margin: 0px;
 }
 
 /* section titles */
@@ -71,14 +80,24 @@ text-align: center;
 display: inline;
 }
 
+/*educational degrees*/
 #degrees {
   margin-top: 5px;
   margin: 0px;
 }
 
+/*skills list*/
 #do {
   margin-top: 5px;
   margin: 0px;
+}
+
+/*mission statement*/
+.top {
+width: 60%;
+min-width: 300px;
+margin: 0 auto;
+margin-bottom: 30px;
 }
 
 
