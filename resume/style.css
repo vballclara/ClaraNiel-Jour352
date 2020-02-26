@@ -19,10 +19,12 @@ BODY {
 }
 
 /* title */
-strong {
+#title {
 font-size= 1.5em;
 text-transform: uppercase;
 color: #33485e;
+font-weight: 600;
+text-align: center; 
 }
 
 /* section titles */
@@ -53,14 +55,33 @@ color: #33485e;
 .date {
   font-weight: 400;
   font-size: 1em;
-  margin: 2px 0px 0px 0px;
+  margin-top: 2px;
+  margin: 0px;
 }
 
 .description {
-  margin: 10px 0px; 
+  margin: 10px 0px;
 }
 
 /* literally any other small text */
+.menu {
+margin: 0px;
+padding: 0px;
+text-align: center;
+display: inline;
+}
+
+#degrees {
+  margin-top: 5px;
+  margin: 0px;
+}
+
+#do {
+  margin-top: 5px;
+  margin: 0px;
+}
+
+
 li {
   font-size: 1em;
 }
