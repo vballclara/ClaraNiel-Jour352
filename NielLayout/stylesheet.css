@@ -4,5 +4,9 @@
 }
 h1 {
   font-family: Helvetica, sans-serif;
-  font-size: 14px; 
+  font-size: 18px; 
+}
+p {
+  font-family: Georgia, sans-serif;
+  font-size: 13px;
 }
