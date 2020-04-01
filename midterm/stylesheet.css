@@ -25,5 +25,11 @@ h4 {
 
 p {
   font-family: helvetica, sans-serif;
-  font-size: 12px; 
+  font-size: 12px;
+}
+
+.caption {
+   font-family: helvetica, sans-serif;
+   font-size: 11px;
+   font-style: italic;
 }
