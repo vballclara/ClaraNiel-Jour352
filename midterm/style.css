@@ -1,11 +1,11 @@
-h1 {
+#headline {
   font-family: 'Oswald', sans-serif;
   font-size: 30px;
 }
 
 #content {
   margin: 0 auto;
-  width: 900px; 
+  width: 900px;
 }
 
 .subhead {
