@@ -1,4 +1,4 @@
-#headline {
+h1 {
   font-family: 'Oswald', sans-serif;
   font-size: 30px;
 }
@@ -8,7 +8,7 @@
   width: 900px;
 }
 
-.subhead {
+h2 {
   font-family: Helvetica, sans-serif;
   font-size: 20px;
 }
