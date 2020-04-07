@@ -4,7 +4,7 @@ body {
  color: #000000;
 }
 
-#container {
+#container-fluid {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
@@ -12,7 +12,7 @@ body {
 }
 
 .banner {
-  display: center; 
+  display: center;
 }
 
 .sectionheader {
