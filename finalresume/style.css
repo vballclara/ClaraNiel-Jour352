@@ -21,7 +21,7 @@ body {
   width: 80%;
   min-width: 300px;
   display: center;
-  text-align: center; 
+  text-align: center;
 }
 
 .jobtitle {
@@ -49,10 +49,6 @@ body {
   margin: 0px;
   padding: 0px;
   text-align: center;
-}
-
-.menu li {
-  display: inline;
 }
 
 #degrees {
