@@ -1,3 +1,106 @@
-#container {
+BODY {
+  font-family: 'Open Sans', arial, sans-serif;
+  font-size: 1em;
+  color: #444;
+}
 
+/* whole document*/
+#container {
+  width: 100%
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* name */
+#name {
+  font-size: 3em;
+  color: #33485e;
+  text-transform: uppercase;
+  border-bottom: 1px solid #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* title */
+#title {
+font-size= 1.5em;
+text-transform: uppercase;
+color: #33485e;
+font-weight: 600;
+text-align: center;
+margin-top: 20px;
+margin: 0px;
+}
+
+/* section titles */
+.sectionheader {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  background-color: #33485e;
+  color: #ffffff;
+  font-weight: 400;
+  margin: 20px 0px 10px;
+  width: 70%;
+  min-width: 300px;
+}
+
+/* job titles */
+.jobtitles {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+/* job organizations */
+.organization {
+  font-weight: 400;
+  font-size: 1.25em;
+}
+
+/* job dates */
+.date {
+  font-weight: 400;
+  font-size: 1em;
+  margin-top: 2px;
+  margin: 0px;
+}
+
+.description {
+  margin: 10px 0px;
+}
+
+/* literally any other small text */
+.menu {
+margin: 0px;
+padding: 0px;
+text-align: center;
+}
+
+.menu li {
+  display: inline;
+}
+
+/*educational degrees*/
+#degrees {
+  margin-top: 5px;
+  margin: 0px;
+}
+
+/*skills list*/
+#do {
+  margin-top: 5px;
+  margin: 0px;
+}
+
+/*mission statement*/
+.top {
+width: 60%;
+min-width: 300px;
+margin: 0 auto;
+margin-bottom: 30px;
+}
+
+li {
+  font-size: 1em;
 }
