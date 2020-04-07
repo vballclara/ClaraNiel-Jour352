@@ -1,5 +1,11 @@
 body {
  font-family: Helvetica, sans-serif;
  font-size: 1em;
- color: #000000; 
+ color: #000000;
+}
+
+#container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
 }
