@@ -20,7 +20,8 @@ body {
   margin: 20px 0px 10px;
   width: 80%;
   min-width: 300px;
-  display: center; 
+  display: center;
+  text-align: center; 
 }
 
 .jobtitle {
@@ -69,4 +70,5 @@ body {
   min-width: 300px;
   margin: 0 auto;
   margin-bottom: 30px;
+  text-align: center;
 }
