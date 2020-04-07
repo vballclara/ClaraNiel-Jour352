@@ -11,6 +11,10 @@ body {
   display: center;
 }
 
+.banner {
+  display: center; 
+}
+
 .sectionheader {
   font-size: 1.5em;
   text-transform: uppercase;
@@ -46,7 +50,7 @@ body {
 
 .description {
   margin: 10px 0px;
-  text-align: center; 
+  text-align: center;
 }
 
 .menu {
