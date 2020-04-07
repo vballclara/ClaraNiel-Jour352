@@ -9,3 +9,14 @@ body {
   max-width: 1200px;
   margin: 0 auto;
 }
+
+.sectionheader {
+  font-size: 1.5em;
+  text-transform: uppercase;
+  background-color: #FD3E16;
+  color: #000000;
+  font-weight: 450;
+  margin: 20px 0px 10px;
+  width: 80%;
+  min-width: 300px;
+}
