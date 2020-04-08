@@ -4,3 +4,15 @@
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
+
+.byline {
+  font-size: 1em;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: Georgia, serif;
+  line-height: 180%; 
+}
