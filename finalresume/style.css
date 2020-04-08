@@ -59,6 +59,10 @@ body {
   text-align: center;
 }
 
+.menu li {
+  display: inline;
+}
+
 #degrees {
   margin-top: 5px;
   margin: 0px;
