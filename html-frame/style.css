@@ -24,6 +24,8 @@ p {
 }
 
 .image {
-  display: center;
-  padding: 50px 0px; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  padding: 25px 0px;
 }
