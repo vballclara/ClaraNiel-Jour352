@@ -22,3 +22,8 @@ p {
   font-family: Georgia, serif;
   line-height: 180%;
 }
+
+.image {
+  display: center;
+  padding: 50px 0px; 
+}
