@@ -16,6 +16,9 @@
 <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
 
+<!-- Popper menu -->
+<script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
+
  </head>
 
 
@@ -76,14 +79,15 @@
 <script>
   const button = document.querySelector('#button');
   const tooltip = document.querySelector('#tooltip');
-
-  // Pass the button, the tooltip, and some options, and Popper will do the
-  // magic positioning for you:
   Popper.createPopper(button, tooltip, {
     placement: 'right',
   });
 </script>
-<!-- end of Popper thing --> 
+<!-- end of Popper thing -->
+
+<!-- calling in jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="js/scripts.js"></script>
 
  <div class="container">
    <p class="headline">Headline goes here</p>
@@ -94,8 +98,13 @@
 
    <p> Morbi quis commodo odio aenean sed adipiscing diam. Aliquet nibh praesent tristique magna sit. Quis ipsum suspendisse ultrices gravida dictum fusce. Nec ultrices dui sapien eget mi proin sed libero enim. Purus non enim praesent elementum. Mi eget mauris pharetra et ultrices neque ornare. Pretium aenean pharetra magna ac. Lectus sit amet est placerat in egestas erat imperdiet sed. Ultricies tristique nulla aliquet enim tortor at auctor. Amet justo donec enim diam vulputate ut pharetra. Massa placerat duis ultricies lacus sed turpis tincidunt id aliquet. </p>
 
+<p class="chapter">Chapter Header</p>
 
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id donec ultrices tincidunt arcu non sodales neque. Nec dui nunc mattis enim. Netus et malesuada fames ac turpis. Bibendum neque egestas congue quisque egestas diam. Id diam maecenas ultricies mi eget mauris.</p>
 
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. In metus vulputate eu scelerisque felis imperdiet proin fermentum. Proin sed libero enim sed faucibus turpis in. Aliquam sem fringilla ut morbi tincidunt augue interdum velit. Nisl purus in mollis nunc sed id semper. Egestas maecenas pharetra convallis posuere morbi leo. Non odio euismod lacinia at quis risus. Felis eget nunc lobortis mattis aliquam faucibus purus in massa.</p>
+
+<p>Vulputate enim nulla aliquet porttitor lacus luctus. Et tortor at risus viverra adipiscing at. At quis risus sed vulputate odio ut enim. Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Aliquam malesuada bibendum arcu vitae. Velit euismod in pellentesque massa placerat. Et tortor at risus viverra adipiscing at in tellus integer. Amet mauris commodo quis imperdiet massa tincidunt nunc. Cum sociis natoque penatibus et magnis dis.</p>
 
 
 
