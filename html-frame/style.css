@@ -30,7 +30,7 @@ img {
   padding-top: 25px;
 }
 
-.photo-caption {
+figcaption {
   font-size: 0.5em;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
