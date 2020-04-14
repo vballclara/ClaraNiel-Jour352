@@ -12,7 +12,13 @@
   text-align: center;
 }
 
+.chapter {
+  font-size: 2em;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+}
+
 p {
   font-family: Georgia, serif;
-  line-height: 180%; 
+  line-height: 180%;
 }
