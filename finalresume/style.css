@@ -56,13 +56,9 @@ body {
 }
 
 .menu {
-  margin: 0px;
-  padding: 0px;
+  margin: 10px;
+  padding: 10px;
   text-align: center;
-}
-
-.menu li {
-  display: inline;
 }
 
 #degrees {
@@ -103,5 +99,5 @@ footer {
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: @screen-lg-min) {
-   min-wdith: 1200px; 
+   min-wdith: 1200px;
  }
