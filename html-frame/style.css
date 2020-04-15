@@ -35,3 +35,10 @@ figcaption {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
+
+footer{
+  font-size: 1em;
+  color: white;
+  text-align: center;
+  background-color: black; 
+}
