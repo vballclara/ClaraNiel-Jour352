@@ -36,11 +36,12 @@ figcaption {
   text-align: center;
 }
 
-footer{
+.footer{
   font-size: 1em;
   color: white;
   text-align: center;
-  background-color: black;
+  background: black;
+  padding: 40px 5%; 
 }
 
 .popper {
