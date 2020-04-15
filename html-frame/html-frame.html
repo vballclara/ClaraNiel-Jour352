@@ -61,38 +61,6 @@
  </nav>
  <!-- End of Dropdown Menu -->
 
- <!-- Popper thing -->
- <style>
-  #tooltip {
-    background-color: #333;
-    color: white;
-    padding: 5px 10px;
-    border-radius: 4px;
-    font-size: 13px;
-  }
-</style>
-
-<button id="button" aria-describedby="tooltip">I'm a button</button>
-<div id="tooltip" role="tooltip">I'm a tooltip</div>
-
-<script src="https://unpkg.com/@popperjs/core@2"></script>
-<script>
-  const button = document.querySelector('#button');
-  const tooltip = document.querySelector('#tooltip');
-  Popper.createPopper(button, tooltip, {
-    placement: 'right',
-  });
-</script>
-<!-- end of Popper thing -->
-
-<!-- calling in jQuery -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-<script src="js/scripts.js"></script>
-
-<button id="trigger">Click me</button>
-<p id="demo"></p>
-<!-- end of jQuery -->
-
  <div class="container">
    <p class="headline">Headline goes here</p>
 
@@ -115,11 +83,42 @@
 
 <p>Vulputate enim nulla aliquet porttitor lacus luctus. Et tortor at risus viverra adipiscing at. At quis risus sed vulputate odio ut enim. Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Aliquam malesuada bibendum arcu vitae. Velit euismod in pellentesque massa placerat. Et tortor at risus viverra adipiscing at in tellus integer. Amet mauris commodo quis imperdiet massa tincidunt nunc. Cum sociis natoque penatibus et magnis dis.</p>
 
-
-
-
-
+<footer>
+  <p>This is my footer</p>
+  <p>Copyright 2020 Clara Niel</p>
+</footer>
 
 </div>
+<!-- Popper thing -->
+<style>
+ #tooltip {
+   background-color: #333;
+   color: white;
+   padding: 5px 10px;
+   border-radius: 4px;
+   font-size: 13px;
+ }
+</style>
+
+<button id="button" aria-describedby="tooltip">I'm a button</button>
+<div id="tooltip" role="tooltip">I'm a tooltip</div>
+
+<script src="https://unpkg.com/@popperjs/core@2"></script>
+<script>
+ const button = document.querySelector('#button');
+ const tooltip = document.querySelector('#tooltip');
+ Popper.createPopper(button, tooltip, {
+   placement: 'right',
+ });
+</script>
+<!-- end of Popper thing -->
+
+<!-- calling in jQuery -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="js/scripts.js"></script>
+
+<button id="trigger">Click me</button>
+<p id="demo"></p>
+<!-- end of jQuery -->
  </body>
  </html>
