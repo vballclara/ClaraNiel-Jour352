@@ -36,6 +36,10 @@ figcaption {
   text-align: center;
 }
 
+.graphics {
+  padding: 25px; 
+}
+
 .footer{
   font-size: 1em;
   color: white;
