@@ -48,15 +48,12 @@ figcaption {
   text-align: center;
 }
 
-.quote {
+pullquote {
   color: #ffa938;
   font-size: 2em;
   font-family: 'Bree Serif', serif;
 }
-.credit {
-  font-family: 'Bree Serif', serif;
-  font-size: 2em;
-  font-weight: lighter;
+
 }
 .footer{
   font-size: 1em;
