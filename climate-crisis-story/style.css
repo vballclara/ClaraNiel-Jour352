@@ -36,6 +36,12 @@ p {
   line-height: 180%;
 }
 
+figcaption {
+  font-size: 0.5em;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
 .footer{
   font-size: 1em;
   color: white;
@@ -50,4 +56,8 @@ p {
   display: center;
   margin-left: auto;
   margin-right: auto;
+}
+
+img {
+  display: center;
 }
