@@ -24,3 +24,11 @@
   text-transform: uppercase;
   font-family: 'Open Sans', sans-serif;
 }
+
+.chapter {
+  font-family: 'Bree Serif', serif;
+  font-size: 2em;
+  font-weight: 700;
+  text-align: center;
+  color: #0474b3;
+}
