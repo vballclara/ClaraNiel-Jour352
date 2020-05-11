@@ -15,7 +15,7 @@
 
 .title {
   font-family: 'Bree Serif', serif;
-  font size: 3em;
+  font size: 2em;
   font-weight: lighter;
 }
 
@@ -48,12 +48,15 @@ figcaption {
   text-align: center;
 }
 
-pullquote {
+.quote {
   color: #ffa938;
   font-size: 2em;
   font-family: 'Bree Serif', serif;
 }
-
+.credit {
+  font-family: 'Bree Serif', serif;
+  font-size: 2em;
+  font-weight: lighter;
 }
 .footer{
   font-size: 1em;
