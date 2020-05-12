@@ -29,6 +29,7 @@
   font-size: 2em;
   font-weight: 700;
   text-align: center;
+  color: #0474b3; 
 }
 
 p {
@@ -95,10 +96,6 @@ hr {
   background: #ffa938;
 }
 
-.hrline {
-  height: 2px;
-  background: #0474b3; 
-}
 
 /* The sidebar menu */
 .sidebar {
