@@ -32,7 +32,7 @@
 }
 
 p {
-  font-family: 'Open Sans', san-serif;
+  font-family: 'Open Sans', sans-serif;
   line-height: 180%;
 }
 
@@ -42,6 +42,7 @@ p {
   margin-right: auto;
   width: 50%;
 }
+
 figcaption {
   font-size: 0.5em;
   font-family: 'Open Sans', sans-serif;
@@ -57,7 +58,7 @@ figcaption {
   font-family: 'Bree Serif', serif;
   font-size: 2em;
   font-weight: lighter;
-  color: #ffa938; 
+  color: #ffa938;
 }
 .footer{
   font-size: 1em;
