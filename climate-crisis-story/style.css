@@ -29,7 +29,7 @@
   font-size: 2em;
   font-weight: 700;
   text-align: center;
-  color: #0474b3; 
+  color: #0474b3;
 }
 
 p {
@@ -92,7 +92,7 @@ a:hover {
 }
 
 hr {
-  height: 3px;
+  height: 5px;
   background: #ffa938;
 }
 
