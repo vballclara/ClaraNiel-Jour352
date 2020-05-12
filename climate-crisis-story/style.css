@@ -56,6 +56,8 @@ figcaption {
 .by {
   font-family: 'Bree Serif', serif;
   font-size: 2em;
+  font-weight: lighter;
+  color: #ffa938; 
 }
 .footer{
   font-size: 1em;
@@ -96,5 +98,5 @@ hr {
 
 .linequote {
   color: #0474b3;
-  border: 2px; 
+  border: 2px;
 }
