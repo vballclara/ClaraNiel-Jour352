@@ -95,6 +95,11 @@ hr {
   background: #ffa938;
 }
 
+.hrline {
+  height: 2px;
+  background: #0474b3; 
+}
+
 /* The sidebar menu */
 .sidebar {
   height: 100%; /* 100% Full-height */
