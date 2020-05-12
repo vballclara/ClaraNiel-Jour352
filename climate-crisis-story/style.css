@@ -91,5 +91,10 @@ a:hover {
 
 hr {
   color: #ffa938;
-  border: 4px; 
+  border: 4px;
+}
+
+.linequote {
+  color: #0474b3;
+  border: 2px; 
 }
