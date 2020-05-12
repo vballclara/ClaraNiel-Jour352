@@ -13,6 +13,11 @@
   color: #0474b3;
 }
 
+.title {
+  font-size: 3em;
+  font-family: 'Bree Serif', serif;
+  padding-top: 20px;
+}
 
 .byline {
   font-size: 1em;
