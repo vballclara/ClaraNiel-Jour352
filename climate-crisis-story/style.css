@@ -39,7 +39,7 @@ p {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
+  width: 75%;
 }
 
 figcaption {
@@ -91,5 +91,5 @@ a:hover {
 
 hr {
   border-width: 3px;
-  color: #ffa938; 
+  color: #ffa938;
 }
