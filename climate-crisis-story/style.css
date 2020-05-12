@@ -13,7 +13,7 @@
   color: #0474b3;
 }
 
-.title {
+.headline2 {
   font-family: 'Bree Serif', serif;
   font size: 3em;
   padding-top: 20px;
@@ -64,7 +64,7 @@ figcaption {
   color: #ffa938;
 }
 
-.footer{
+.footer p{
   font-size: 0.5m;
   color: white;
   text-align: center;
