@@ -16,7 +16,6 @@
 .title {
   font-family: 'Bree Serif', serif;
   font size: 2em;
-  font-weight: lighter;
 }
 
 .byline {
@@ -40,7 +39,6 @@ p {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
 
 figcaption {
@@ -54,12 +52,14 @@ figcaption {
   font-size: 2em;
   font-family: 'Bree Serif', serif;
 }
+
 .by {
   font-family: 'Bree Serif', serif;
   font-size: 2em;
   font-weight: lighter;
   color: #ffa938;
 }
+
 .footer{
   font-size: 1em;
   color: white;
