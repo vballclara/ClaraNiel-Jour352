@@ -88,3 +88,8 @@ a:visited {
 a:hover {
   color: red;
 }
+
+hr {
+  border-width: 3px;
+  color: #ffa938; 
+}
