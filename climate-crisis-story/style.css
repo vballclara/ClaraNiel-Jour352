@@ -41,11 +41,19 @@ p {
   margin-right: auto;
   width: 25%;
 }
+
 .hydrant {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
+  width: 100%;
+}
+
+.npr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%; 
 }
 
 figcaption {
