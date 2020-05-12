@@ -76,3 +76,20 @@ figcaption {
 img {
   display: center;
 }
+
+a:link {
+  color: #ffa938;
+}
+
+a:visited {
+  color: #0474b3;
+}
+
+a:hover {
+  color: red;
+}
+
+hr {
+  color: #ffa938;
+  border: 4px; 
+}
