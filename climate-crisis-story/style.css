@@ -39,21 +39,7 @@ p {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
-}
-
-.hydrant {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
-}
-
-.npr {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 75%; 
+  width: 75%;
 }
 
 figcaption {
@@ -104,6 +90,6 @@ a:hover {
 }
 
 hr {
-  color: #ffa938;
-  border: 4px;
+  color: #FFA938;
+  width: 4px;
 }
