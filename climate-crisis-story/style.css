@@ -15,8 +15,9 @@
 
 .title {
   font-family: 'Bree Serif', serif;
-  font size: 5em;
+  font size: 3em;
   padding-top: 20px;
+  font-weight: 700;
 }
 
 .byline {
